@@ -1,0 +1,39 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "ISRP | HR Handbook",
+  "colors": {
+    "primary": "#2563EB",
+    "light": "#60A5FA",
+    "dark": "#1D4ED8"
+  },
+  "navigation": {
+    "groups": [
+      {
+        "group": "HR Handbook",
+        "pages": [
+          "introduction",
+          "responsibilities",
+          "discipline",
+          "issuing",
+          "appeals",
+          "retirement",
+          "transfers",
+          "punishment-guide"
+        ]
+      }
+    ]
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Discord",
+        "href": "https://discord.gg/VAqhFkrb2"
+      }
+    ]
+  },
+  "logo": {
+    "light": "/assets/logo.svg",
+    "dark": "/assets/logo-dark.svg"
+  }
+}
